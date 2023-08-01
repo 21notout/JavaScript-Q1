@@ -1,0 +1,38 @@
+table, th, td {
+    border: 1px solid;
+}
+table{
+    width: 100%;
+}
+h3{
+    text-align: center;
+}
+.inputs{
+    text-align: center;
+}
+button{
+    border: 0px;
+    height: 30px;
+    border-radius: 8px;
+}
+.button1{
+    background-color: rgb(255, 162, 162);
+}
+.button2{
+    background-color: rgb(255, 162, 162);
+}
+.spanElement{
+    background-color: rgb(255, 255, 255);
+    border-radius: 50%;
+}
+.para{
+    background-color: aqua;
+    color: white;
+}
+.para2{
+    background-color: rgb(244, 113, 113);
+}
+
+.active{
+    background-color: aquamarine;
+}
